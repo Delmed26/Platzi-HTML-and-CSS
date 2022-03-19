@@ -1,0 +1,26 @@
+.container {
+    flex-flow: row wrap;
+    height: 100vh;
+}
+
+.c5, .c1, .c4 {
+    width: 33.33%;
+}
+
+.c4 {
+    order: 1;
+    height: auto;
+}
+
+.c5 {
+    order: 2;
+    height: auto;
+}
+
+.c2, .c3 {
+    height: 50%;
+}
+
+.c1 {
+    order: 3;
+}

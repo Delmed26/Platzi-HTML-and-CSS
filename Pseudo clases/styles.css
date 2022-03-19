@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main-nav {
+    padding-left: 0;
+    list-style: none;
+    background-color: #1358a6;
+}
+
+.main-nav__item {
+    display: inline-block;
+}
+
+.main-nav__item a {
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.container {
+    flex-flow: row wrap;
+}
+
+.c1 {
+    width: 50%;
+    height: auto;
+}
+
+.c5 {
+    width: 50%;
+}
